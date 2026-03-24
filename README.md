@@ -108,4 +108,3 @@ This application consists of a modern frontend and a Python FastAPI backend. You
 ## 👨‍💻 Created By
 **Utkarsh Mishra**
 Building the future of sustainable and smart agriculture.
-# AgroTech-Smart-Crop-Advisory-System
